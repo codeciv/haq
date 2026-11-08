@@ -1,0 +1,25 @@
+{
+ "reply": "I'll try to help. Haq can help with two kinds of problems: a landlord not returning a deposit, or a seller or service provider not giving a refund. Which is yours?\n1. Who has your money (a landlord, a shop, an online app, a service company)?\n2. How much is it, and when did you pay?\n3. What happened after that? Did you ask for it back?",
+ "mode": "intake",
+ "case": {
+  "type": "unknown",
+  "amount": "",
+  "other_party": "",
+  "state_city": "",
+  "facts": [
+   "User wants money back"
+  ],
+  "timeline": [],
+  "evidence_have": [],
+  "evidence_missing": [],
+  "open_questions": [
+   "Who holds the money?",
+   "Amount and date?",
+   "What happened?"
+  ]
+ },
+ "citations": [],
+ "refer_to_lawyer": false,
+ "refer_reason": "",
+ "draft": ""
+}

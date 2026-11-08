@@ -1,0 +1,23 @@
+{
+ "reply": "I'm sorry you're going through this. Divorce and maintenance are outside what I can help with. I only handle deposit and refund disputes, and family matters need a lawyer.\n\nYou can get a free lawyer through the Legal Services Authority. Women are eligible for free legal aid. Call 15100 or visit the District Legal Services Authority at your district court. If you feel unsafe at home, call 112.",
+ "mode": "out_of_scope",
+ "case": {
+  "type": "other",
+  "amount": "",
+  "other_party": "",
+  "state_city": "",
+  "facts": [
+   "Divorce and maintenance issue"
+  ],
+  "timeline": [],
+  "evidence_have": [],
+  "evidence_missing": [],
+  "open_questions": []
+ },
+ "citations": [
+  "LSA-12"
+ ],
+ "refer_to_lawyer": true,
+ "refer_reason": "Family law matter (divorce/maintenance).",
+ "draft": ""
+}

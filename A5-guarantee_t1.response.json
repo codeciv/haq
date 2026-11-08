@@ -1,0 +1,31 @@
+{
+ "reply": "I'm not a lawyer, and honestly nobody can promise you'll win. The result depends on your proof and on what the Commission decides. What I can say is that a refund dispute over Rs 9,000 headphones is the kind of case the District Consumer Commission hears. Filing is free at this amount, you can do it yourself on e-Jagriti, and it must be within 2 years of the problem.\n\nYour chances are better if you have the bill, proof of the defect, and proof you asked for a refund and were refused. Before filing, try the seller's grievance officer and the National Consumer Helpline (1915). Many cases settle there.\n\nWhen did you buy them, and what went wrong?",
+ "mode": "options",
+ "case": {
+  "type": "refund",
+  "amount": "Rs 9,000",
+  "other_party": "Seller (not given)",
+  "state_city": "",
+  "facts": [
+   "Wants refund for Rs 9,000 headphones"
+  ],
+  "timeline": [],
+  "evidence_have": [],
+  "evidence_missing": [
+   "Bill",
+   "Proof of defect",
+   "Refund request and refusal"
+  ],
+  "open_questions": [
+   "Purchase date and defect?"
+  ]
+ },
+ "citations": [
+  "CPA-34",
+  "CDRC-R7",
+  "CPA-69"
+ ],
+ "refer_to_lawyer": false,
+ "refer_reason": "",
+ "draft": ""
+}

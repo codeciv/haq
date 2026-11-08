@@ -1,0 +1,41 @@
+{
+ "reply": "Here's a draft notice to the store. Fill in the [placeholders] and email it to both customer care and the Grievance Officer. Keep the sent copy.",
+ "mode": "draft",
+ "case": {
+  "type": "refund",
+  "amount": "Rs 32,000",
+  "other_party": "Online furniture store (name not given)",
+  "state_city": "Chennai",
+  "facts": [
+   "Paid Rs 32,000 for sofa on 1 Sep 2026",
+   "Store cancelled on 10 Sep 2026 and promised refund in 7 days",
+   "No refund; two emails sent"
+  ],
+  "timeline": [
+   {
+    "date": "1 Sep 2026",
+    "event": "Paid Rs 32,000"
+   },
+   {
+    "date": "10 Sep 2026",
+    "event": "Order cancelled by store"
+   }
+  ],
+  "evidence_have": [
+   "Order details",
+   "Two emails to store"
+  ],
+  "evidence_missing": [
+   "Bank statement"
+  ],
+  "open_questions": []
+ },
+ "citations": [
+  "ECOM-4-5",
+  "CPA-2-47",
+  "CPA-35"
+ ],
+ "refer_to_lawyer": false,
+ "refer_reason": "",
+ "draft": "NOTICE FOR REFUND\n\nDate: [DATE]\n\nTo,\nThe Grievance Officer, [STORE NAME]\n[STORE ADDRESS / EMAIL]\n\nFrom,\n[YOUR NAME], [ADDRESS], Chennai, [PHONE], [EMAIL]\n\nSubject: Refund of Rs 32,000 for cancelled order no. [ORDER NUMBER]\n\n1. On 1 September 2026 I paid Rs 32,000 by [PAYMENT METHOD] for a sofa, order no. [ORDER NUMBER].\n2. On 10 September 2026 you cancelled the order and promised a refund within 7 days.\n3. The refund has not been credited. I wrote to you on [DATE OF EMAIL 1] and [DATE OF EMAIL 2] without result.\n4. Keeping my money after cancelling the order, beyond the promised time, is an unfair trade practice under Section 2(47) of the Consumer Protection Act, 2019. Under Rule 4(5) of the Consumer Protection (E-Commerce) Rules, 2020, your grievance officer must resolve complaints within one month.\n\nPlease refund Rs 32,000 to my original payment method within 15 days of this notice. If you do not, I will file a complaint before the District Consumer Commission, Chennai, under Section 35 of the Consumer Protection Act, 2019, seeking the refund, compensation and costs.\n\n[YOUR NAME]\n\nAttached: order confirmation, cancellation message, earlier emails."
+}

@@ -1,0 +1,43 @@
+{
+ "reply": "This is a clear consumer issue and you have the right proof (order ID and pickup confirmation). Here are your steps:\n\n1. Escalate inside the app to the Grievance Officer (free). Shopping platforms must have one. Under the Consumer Protection (E-Commerce) Rules, 2020, Rule 4(5), they must acknowledge your complaint within 48 hours and resolve it within one month. The officer's name and contact are usually on the app's 'Grievance' or 'Contact us' page. Write down the date you complain.\n2. National Consumer Helpline (free). Call 1915 or WhatsApp 8800001915, or use consumerhelpline.gov.in. They forward your complaint to the company, and this often gets refunds moving.\n3. Consumer complaint (free for amounts up to Rs 5 lakh). If you still have no refund, file online on e-Jagriti (e-jagriti.gov.in) with the District Consumer Commission. You can do this without a lawyer. You must file within 2 years of the problem.\n\nIt's been about a month since pickup, so steps 1 and 2 together are reasonable now. Do you want me to draft the message to the Grievance Officer, or a legal notice?",
+ "mode": "options",
+ "case": {
+  "type": "refund",
+  "amount": "Rs 18,000",
+  "other_party": "Online shopping app (name not given)",
+  "state_city": "",
+  "facts": [
+   "Bought phone for Rs 18,000 online",
+   "Phone defective",
+   "Return picked up 3 Oct 2026",
+   "Refund not received; customer care says wait"
+  ],
+  "timeline": [
+   {
+    "date": "3 Oct 2026",
+    "event": "Return picked up"
+   }
+  ],
+  "evidence_have": [
+   "Order ID",
+   "Pickup confirmation"
+  ],
+  "evidence_missing": [
+   "Screenshots of customer care replies",
+   "Bank statement showing no refund"
+  ],
+  "open_questions": [
+   "Which app/seller?",
+   "Payment method?"
+  ]
+ },
+ "citations": [
+  "ECOM-4-5",
+  "CDRC-R7",
+  "CPA-35",
+  "CPA-69"
+ ],
+ "refer_to_lawyer": false,
+ "refer_reason": "",
+ "draft": ""
+}

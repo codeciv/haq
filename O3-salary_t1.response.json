@@ -1,0 +1,21 @@
+{
+ "reply": "Unpaid salary is outside what I can help with. I only cover deposit and refund disputes for now. Employment cases have their own rules and offices (such as the labour department).\n\nFor free advice, contact the Legal Services Authority: call 15100 or visit your District Legal Services Authority. Meanwhile, keep your appointment letter, salary slips, bank statements and any messages about the unpaid salary.",
+ "mode": "out_of_scope",
+ "case": {
+  "type": "other",
+  "amount": "",
+  "other_party": "Employer",
+  "state_city": "",
+  "facts": [
+   "Salary unpaid for 3 months"
+  ],
+  "timeline": [],
+  "evidence_have": [],
+  "evidence_missing": [],
+  "open_questions": []
+ },
+ "citations": [],
+ "refer_to_lawyer": false,
+ "refer_reason": "",
+ "draft": ""
+}

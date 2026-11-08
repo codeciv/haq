@@ -1,0 +1,33 @@
+{
+ "reply": "Thanks for correcting that. It changes things a lot. If you vacated in March 2022, more than 4 years have passed. A civil suit to recover money generally has to be filed within about 3 years, and the exact starting date is uncertain. Your claim may already be time-barred, unless something extended it, such as the landlord admitting the debt in writing more recently.\n\nPlease speak to a lawyer before spending money on this. Free legal aid: call 15100. Bring any messages where the landlord acknowledged owing you the deposit, especially recent ones.\n\nYou can still send the landlord a polite written request. Some landlords pay anyway.",
+ "mode": "referral",
+ "case": {
+  "type": "deposit",
+  "amount": "Rs 40,000",
+  "other_party": "Landlord",
+  "state_city": "Jaipur, Rajasthan",
+  "facts": [
+   "Deposit Rs 40,000 not returned",
+   "Vacated March 2022 (corrected from 2026)"
+  ],
+  "timeline": [
+   {
+    "date": "March 2022",
+    "event": "Vacated"
+   }
+  ],
+  "evidence_have": [],
+  "evidence_missing": [
+   "Any written acknowledgement by landlord"
+  ],
+  "open_questions": [
+   "Any recent written acknowledgement of the debt?"
+  ]
+ },
+ "citations": [
+  "LIM-MONEY"
+ ],
+ "refer_to_lawyer": true,
+ "refer_reason": "More than 3 years since the deposit fell due; limitation may have expired.",
+ "draft": ""
+}

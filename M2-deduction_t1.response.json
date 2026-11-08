@@ -1,0 +1,30 @@
+{
+ "reply": "It depends mainly on your rent agreement and your state's law. A landlord can usually deduct only what the agreement allows, such as unpaid rent or real damage beyond normal wear and tear, and should show the cost. A Rs 40,000 painting charge from a Rs 50,000 deposit is worth questioning. To tell you more, I need:\n1. What does your agreement say about painting or deductions?\n2. Which city/state is the flat in, and how long did you stay?\n3. Did he show any bill or photos for the painting, and did you leave any damage?",
+ "mode": "intake",
+ "case": {
+  "type": "deposit",
+  "amount": "Rs 50,000 (Rs 40,000 deducted)",
+  "other_party": "Landlord",
+  "state_city": "",
+  "facts": [
+   "Deposit Rs 50,000",
+   "Landlord deducted Rs 40,000 for painting"
+  ],
+  "timeline": [],
+  "evidence_have": [],
+  "evidence_missing": [
+   "Rent agreement clause on deductions",
+   "Painting bill",
+   "Move-out photos"
+  ],
+  "open_questions": [
+   "Agreement terms?",
+   "State/city and length of stay?",
+   "Any bill shown?"
+  ]
+ },
+ "citations": [],
+ "refer_to_lawyer": false,
+ "refer_reason": "",
+ "draft": ""
+}

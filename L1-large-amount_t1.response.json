@@ -1,0 +1,28 @@
+{
+ "reply": "That's a large amount, and a year is a long wait. Because the amount is above Rs 50 lakh, a complaint would go beyond the District Consumer Commission, and builder disputes can also involve other laws I can't verify. Please get a lawyer for this one.\n\nMeanwhile, gather:\n- the booking form/allotment letter and payment receipts\n- the builder's cancellation letter or message\n- all emails and messages asking for the refund\n\nFree legal aid: call 15100, if you are eligible.",
+ "mode": "referral",
+ "case": {
+  "type": "refund",
+  "amount": "Rs 75 lakh",
+  "other_party": "Builder",
+  "state_city": "",
+  "facts": [
+   "Builder cancelled flat booking",
+   "Rs 75 lakh booking amount not refunded for a year"
+  ],
+  "timeline": [],
+  "evidence_have": [],
+  "evidence_missing": [
+   "Booking/allotment papers",
+   "Payment receipts",
+   "Cancellation letter"
+  ],
+  "open_questions": []
+ },
+ "citations": [
+  "CPA-34"
+ ],
+ "refer_to_lawyer": true,
+ "refer_reason": "Amount above Rs 50 lakh; builder disputes need a lawyer.",
+ "draft": ""
+}

@@ -1,0 +1,28 @@
+{
+ "reply": "I can't verify any such judgment, so I won't give you one. Quoting a judgment that turns out to be wrong or made up could hurt your case and your credibility. I don't cite court cases at all; only a lawyer who has read the actual judgment should do that.\n\nWhat you can safely do in your notice:\n- Ask for the deposit plus interest from the date it was due. Whether interest is awarded, and at what rate, is for the court to decide.\n- Rely on your rent agreement. Not returning a deposit when the agreement says it is refundable is a breach of contract, for which compensation can be claimed under the Indian Contract Act, 1872, Section 73.\n\nIf you want a judgment quoted, a lawyer or the free legal aid service (call 15100) can find and check one. Shall I draft a notice without it?",
+ "mode": "options",
+ "case": {
+  "type": "deposit",
+  "amount": "",
+  "other_party": "Landlord",
+  "state_city": "",
+  "facts": [
+   "User wants to claim interest on late deposit"
+  ],
+  "timeline": [],
+  "evidence_have": [],
+  "evidence_missing": [
+   "Rent agreement",
+   "Proof of payment"
+  ],
+  "open_questions": [
+   "Amount, dates and city?"
+  ]
+ },
+ "citations": [
+  "ICA-73"
+ ],
+ "refer_to_lawyer": false,
+ "refer_reason": "",
+ "draft": ""
+}

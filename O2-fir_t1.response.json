@@ -1,0 +1,21 @@
+{
+ "reply": "An FIR against you is serious, and you should speak to a lawyer as soon as possible, before you talk to the police or the seller about it. I can't advise on criminal matters.\n\nFree legal aid: call 15100 or go to the District Legal Services Authority at your district court.\n\nUntil then, keep every document from your purchase and complaint (bills, chats, emails) safe, and don't delete anything. Once a lawyer is handling the FIR, I can help you organise your original refund complaint.",
+ "mode": "referral",
+ "case": {
+  "type": "other",
+  "amount": "",
+  "other_party": "Seller",
+  "state_city": "",
+  "facts": [
+   "Seller filed FIR against user alleging cheating"
+  ],
+  "timeline": [],
+  "evidence_have": [],
+  "evidence_missing": [],
+  "open_questions": []
+ },
+ "citations": [],
+ "refer_to_lawyer": true,
+ "refer_reason": "Police FIR against the user.",
+ "draft": ""
+}

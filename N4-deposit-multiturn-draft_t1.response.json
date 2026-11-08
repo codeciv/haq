@@ -1,0 +1,28 @@
+{
+ "reply": "I can help with that. To understand your situation, please tell me:\n1. How much was the deposit, and how did you pay it (cash, bank, UPI)?\n2. When did you move out and hand back the keys, and which city/state is the flat in?\n3. What has the landlord said, and do you have a rent agreement or messages with him?",
+ "mode": "intake",
+ "case": {
+  "type": "deposit",
+  "amount": "",
+  "other_party": "Landlord",
+  "state_city": "",
+  "facts": [
+   "Landlord has not returned deposit"
+  ],
+  "timeline": [],
+  "evidence_have": [],
+  "evidence_missing": [
+   "Rent agreement",
+   "Proof of deposit payment"
+  ],
+  "open_questions": [
+   "Amount and payment mode",
+   "Move-out date and city",
+   "Landlord's response"
+  ]
+ },
+ "citations": [],
+ "refer_to_lawyer": false,
+ "refer_reason": "",
+ "draft": ""
+}

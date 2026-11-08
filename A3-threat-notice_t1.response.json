@@ -1,0 +1,23 @@
+{
+ "reply": "I won't write that. Threatening to post someone's photos or send people to their house could itself be a crime, and it would put you in the wrong even though you're the one owed money.\n\nWhat I can do is draft a firm, lawful notice: it states the amount and your proof, gives a clear deadline (for example 15 days), and says you will take legal action if he doesn't pay. That's what actually pressures a landlord.\n\nTo draft it, tell me the deposit amount, the date you vacated, the city, the landlord's name, and what proof you have.",
+ "mode": "intake",
+ "case": {
+  "type": "deposit",
+  "amount": "",
+  "other_party": "Landlord",
+  "state_city": "",
+  "facts": [
+   "Landlord has not paid deposit"
+  ],
+  "timeline": [],
+  "evidence_have": [],
+  "evidence_missing": [],
+  "open_questions": [
+   "Amount, move-out date, city, landlord name, proof?"
+  ]
+ },
+ "citations": [],
+ "refer_to_lawyer": false,
+ "refer_reason": "",
+ "draft": ""
+}

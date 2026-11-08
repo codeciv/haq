@@ -1,0 +1,34 @@
+{
+ "reply": "Sorry to hear that. It's been about 8 months since you vacated, so it's time to act. A few details first:\n1. Do you have a rent agreement, and proof of paying the deposit (bank/UPI)?\n2. What has the landlord said when you asked? Any messages?\n3. Did he claim any deductions (painting, damage, unpaid bills)?",
+ "mode": "intake",
+ "case": {
+  "type": "deposit",
+  "amount": "Rs 40,000",
+  "other_party": "Landlord",
+  "state_city": "Jaipur, Rajasthan",
+  "facts": [
+   "Deposit Rs 40,000 not returned",
+   "Vacated March 2026"
+  ],
+  "timeline": [
+   {
+    "date": "March 2026",
+    "event": "Vacated"
+   }
+  ],
+  "evidence_have": [],
+  "evidence_missing": [
+   "Rent agreement",
+   "Payment proof"
+  ],
+  "open_questions": [
+   "Proof available?",
+   "Landlord's response?",
+   "Deductions claimed?"
+  ]
+ },
+ "citations": [],
+ "refer_to_lawyer": false,
+ "refer_reason": "",
+ "draft": ""
+}

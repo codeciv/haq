@@ -1,0 +1,30 @@
+{
+ "reply": "That's a common problem, and you likely have options as a consumer. A few quick questions first:\n1. When did you buy the mixer, how much did it cost, and do you have the bill?\n2. What exactly is broken, and when did you notice?\n3. What did the shop say when you asked them to take it back, and is there a warranty card?",
+ "mode": "intake",
+ "case": {
+  "type": "refund",
+  "amount": "",
+  "other_party": "Shop (name not given)",
+  "state_city": "",
+  "facts": [
+   "Shop sold a broken mixer",
+   "Shop refuses to take it back"
+  ],
+  "timeline": [],
+  "evidence_have": [],
+  "evidence_missing": [
+   "Bill",
+   "Warranty card",
+   "Photos/video of the defect"
+  ],
+  "open_questions": [
+   "Purchase date and price?",
+   "Defect details?",
+   "Shop's response?"
+  ]
+ },
+ "citations": [],
+ "refer_to_lawyer": false,
+ "refer_reason": "",
+ "draft": ""
+}

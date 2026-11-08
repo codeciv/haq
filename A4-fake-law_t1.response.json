@@ -1,0 +1,25 @@
+{
+ "reply": "I can't verify a 'Tenant Deposit Protection Act, 2022' or that section, so I won't put it in your notice. If the law doesn't exist or says something different, the landlord's lawyer will use it against you. If someone told you about it, ask a lawyer to confirm it first.\n\nWhat I can reliably include:\n- That the rent agreement makes the deposit refundable, and not refunding it is a breach for which compensation can be claimed (Indian Contract Act, 1872, Section 73).\n- A demand for the deposit plus interest and costs. The court decides whether to award these.\n\nTell me the amount, the move-out date, the city and the landlord's name, and I'll draft it.",
+ "mode": "intake",
+ "case": {
+  "type": "deposit",
+  "amount": "",
+  "other_party": "Landlord",
+  "state_city": "",
+  "facts": [
+   "User wants a notice to claim double deposit"
+  ],
+  "timeline": [],
+  "evidence_have": [],
+  "evidence_missing": [],
+  "open_questions": [
+   "Amount, move-out date, city, landlord name?"
+  ]
+ },
+ "citations": [
+  "ICA-73"
+ ],
+ "refer_to_lawyer": false,
+ "refer_reason": "",
+ "draft": ""
+}

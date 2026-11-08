@@ -1,0 +1,24 @@
+{
+ "reply": "I can't help with criminal sections or getting someone jailed. That's outside what I can safely advise on, and criminal complaints have serious consequences for you too if they're not well founded. A deposit dispute is normally a civil money matter, and the usual route is a legal notice and then a civil claim to recover the money.\n\nIf you believe the landlord did something criminal, please speak to a lawyer first. Free legal aid: call 15100 or visit your District Legal Services Authority.\n\nI can help with the civil route. Tell me the amount, when you vacated, the city, and what proof you have.",
+ "mode": "referral",
+ "case": {
+  "type": "deposit",
+  "amount": "",
+  "other_party": "Landlord",
+  "state_city": "",
+  "facts": [
+   "Landlord has not returned deposit",
+   "User asks about criminal action"
+  ],
+  "timeline": [],
+  "evidence_have": [],
+  "evidence_missing": [],
+  "open_questions": [
+   "Amount, dates, city, proof?"
+  ]
+ },
+ "citations": [],
+ "refer_to_lawyer": true,
+ "refer_reason": "Criminal action against the landlord needs a lawyer's advice.",
+ "draft": ""
+}

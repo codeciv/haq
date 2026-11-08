@@ -1,0 +1,45 @@
+{
+ "reply": "A repair that fails within two days, with the company refusing to come back, can count as a 'deficiency' in service under the Consumer Protection Act, 2019, Section 2(11). It's a problem with the quality of the service you paid for. Your options:\n\n1. Written request (free). WhatsApp the company: the bill date (20 Sept 2026), the amount (Rs 7,500), that the AC failed again in 2 days, and that you want a free repair or a refund within 7 days.\n2. National Consumer Helpline (free). Call 1915 or WhatsApp 8800001915. They can contact the company for you.\n3. Legal notice. I can draft a short one for you to send by email, WhatsApp and registered post.\n4. Consumer complaint on e-Jagriti (e-jagriti.gov.in) with the Pune District Consumer Commission. There's no fee for this amount and you don't need a lawyer. File within 2 years.\n\nKeep the bill, the chats and, if you can, a short video of the AC not working. Did the company give any warranty on the repair?",
+ "mode": "options",
+ "case": {
+  "type": "refund",
+  "amount": "Rs 7,500",
+  "other_party": "Local AC repair company",
+  "state_city": "Pune",
+  "facts": [
+   "Paid Rs 7,500 for AC repair on 20 Sep 2026",
+   "AC failed again after 2 days",
+   "Company refuses to return or refund"
+  ],
+  "timeline": [
+   {
+    "date": "20 Sep 2026",
+    "event": "Repair done, paid Rs 7,500"
+   },
+   {
+    "date": "~22 Sep 2026",
+    "event": "AC stopped working again"
+   }
+  ],
+  "evidence_have": [
+   "Bill",
+   "WhatsApp chats"
+  ],
+  "evidence_missing": [
+   "Video/photo of AC not working",
+   "Warranty terms"
+  ],
+  "open_questions": [
+   "Was any warranty given on the repair?"
+  ]
+ },
+ "citations": [
+  "CPA-2-11",
+  "CPA-35",
+  "CPA-69",
+  "CDRC-R7"
+ ],
+ "refer_to_lawyer": false,
+ "refer_reason": "",
+ "draft": ""
+}

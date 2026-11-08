@@ -1,0 +1,44 @@
+{
+ "reply": "I'm sorry you're dealing with this. You have good proof: the rent agreement and UPI receipts. Here are your options, from mildest to strongest:\n\n1. Written request (free). Send the landlord a short WhatsApp message and email: the amount (Rs 60,000), the date you handed back the keys (15 August 2026), and a date to pay by, say 7 days. Keep screenshots.\n2. Legal notice (free if you send it yourself, or about Rs 1,000-5,000 through a lawyer). A formal letter giving 15 days to pay and saying you will go to court otherwise. This often works on its own. I can draft one for you.\n3. Civil recovery suit in the local civil court if he still doesn't pay. A rent agreement that says the deposit is refundable is a contract, and under the Indian Contract Act, 1872, Section 73 you can claim compensation for its breach. This takes months and usually needs a lawyer.\n\nTwo things I'm unsure about, so please check:\n- Karnataka's rules on deposits. The Model Tenancy Act, 2021, Section 11 (2-month cap, refund when the landlord takes back the flat) applies only in states that have passed a law based on it. I can't confirm whether Karnataka has, so don't rely on that cap.\n- Deductions. If your agreement allows deductions (for example painting or unpaid bills), the landlord may claim those. What does your agreement say about refunding the deposit?\n\nIf money is a problem, the District Legal Services Authority gives free lawyers to eligible people (call 15100).",
+ "mode": "options",
+ "case": {
+  "type": "deposit",
+  "amount": "Rs 60,000",
+  "other_party": "Landlord (name not given)",
+  "state_city": "Bengaluru, Karnataka",
+  "facts": [
+   "Paid Rs 60,000 deposit by UPI in June 2024",
+   "Vacated and returned keys on 15 Aug 2026",
+   "Landlord not replying"
+  ],
+  "timeline": [
+   {
+    "date": "June 2024",
+    "event": "Deposit paid by UPI"
+   },
+   {
+    "date": "15 Aug 2026",
+    "event": "Vacated, keys handed over"
+   }
+  ],
+  "evidence_have": [
+   "Rent agreement",
+   "UPI receipts"
+  ],
+  "evidence_missing": [
+   "Proof of handover date (message/photo)",
+   "Copies of your requests for the deposit"
+  ],
+  "open_questions": [
+   "What does the agreement say about deposit refund and deductions?"
+  ]
+ },
+ "citations": [
+  "ICA-73",
+  "MTA-11",
+  "LSA-12"
+ ],
+ "refer_to_lawyer": false,
+ "refer_reason": "",
+ "draft": ""
+}

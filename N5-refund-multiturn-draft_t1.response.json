@@ -1,0 +1,50 @@
+{
+ "reply": "That's frustrating. A store that cancels your order and then keeps your money for 2 months has a lot to answer for. Refusing to refund within the promised time can be an 'unfair trade practice' under the Consumer Protection Act, 2019, Section 2(47). Your steps:\n\n1. Grievance Officer. The store must have one. Under the Consumer Protection (E-Commerce) Rules, 2020, Rule 4(5), they must acknowledge within 48 hours and resolve within a month. Email the officer with the order number and your two earlier emails.\n2. National Consumer Helpline: call 1915 or WhatsApp 8800001915 (free).\n3. Legal notice: I can draft one now.\n4. Consumer complaint on e-Jagriti with the Chennai District Consumer Commission. It's free up to Rs 5 lakh. File within 2 years.\n\nHow did you pay (card, UPI, bank)? Also check your bank statement, so we can state clearly that no refund has been credited.",
+ "mode": "options",
+ "case": {
+  "type": "refund",
+  "amount": "Rs 32,000",
+  "other_party": "Online furniture store (name not given)",
+  "state_city": "Chennai",
+  "facts": [
+   "Paid Rs 32,000 for sofa on 1 Sep 2026",
+   "Store cancelled on 10 Sep 2026 and promised refund in 7 days",
+   "No refund; two emails sent"
+  ],
+  "timeline": [
+   {
+    "date": "1 Sep 2026",
+    "event": "Paid Rs 32,000"
+   },
+   {
+    "date": "10 Sep 2026",
+    "event": "Order cancelled by store; refund promised in 7 days"
+   },
+   {
+    "date": "~17 Sep 2026",
+    "event": "Promised refund date passed"
+   }
+  ],
+  "evidence_have": [
+   "Order details",
+   "Two emails to store"
+  ],
+  "evidence_missing": [
+   "Cancellation message with refund promise",
+   "Bank statement"
+  ],
+  "open_questions": [
+   "Payment method?",
+   "Store name?"
+  ]
+ },
+ "citations": [
+  "CPA-2-47",
+  "ECOM-4-5",
+  "CDRC-R7",
+  "CPA-69"
+ ],
+ "refer_to_lawyer": false,
+ "refer_reason": "",
+ "draft": ""
+}
